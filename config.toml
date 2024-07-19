@@ -163,7 +163,7 @@ url = "https://www.linkedin.com/in/darkuniversal/"
 
 [[params.social]]
 name = "Telegram"
-icon = "fa fa-telegram"
+icon = "fa fa-telegram fa-2x"
 weight = 5
 url = "https://t.me/UniversalDark"
 
