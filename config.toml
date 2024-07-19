@@ -191,6 +191,11 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
+[[languages.en.menu.main]]
+name = "aaaa"
+weight = 6
+url = "aaaa/"
+
 # [languages.pt-br]
 # languageName = ":brazil:"
 # title = "João Ninguém"
