@@ -132,7 +132,7 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fa-brands fa-github fa-2x"
+icon = "fa-brands fa-github fa-3x"
 weight = 1
 url = "https://github.com/DarkAngelUiversal/"
 
@@ -150,7 +150,7 @@ url = "https://github.com/DarkAngelUiversal/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
+icon = "fa-brands fa-linkedin fa-3x"
 weight = 4
 url = "https://www.linkedin.com/in/darkuniversal/"
 
@@ -163,10 +163,17 @@ url = "https://www.linkedin.com/in/darkuniversal/"
 
 [[params.social]]
 name = "Telegram"
-icon = "fa fa-telegram fa-2x"
+icon = "fa-brands fa-telegram fa-3x"
 weight = 5
 url = "https://t.me/UniversalDark"
 
+
+
+[[params.social]]
+name = "steam"
+icon = "fa-brands fa-steam fa-3x"
+weight = 6
+url = "https://steamcommunity.com/id/Bigtheend/"
 
 [languages.en]
 languageName = ":uk:"
@@ -186,10 +193,10 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 5
+# url = "contact/"
 
 
 # [languages.pt-br]
