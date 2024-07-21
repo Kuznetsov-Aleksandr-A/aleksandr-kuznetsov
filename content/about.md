@@ -18,6 +18,7 @@ My journey into the world of games began in 2008 with very simple games, which g
 
 It all started with the game Warhammer 40,000: Dawn of War – Soulstorm. After that, I became interested in this universe, which led me to read my first non-school book — "Horus Heresy Book I: Horus Rising." This plunged me deeper into the universe through books and YouTube videos, sparking my interest in reading. 
 
+![wh40k](/static/images/wh40k.webp)
 
 ## Manhwa/novels: 
 
