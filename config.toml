@@ -19,7 +19,7 @@ author = "Aleksandr Kuznetsov"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Aleksandr Kuznetsov's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps Engineer at Freelance"]
+info = ["Junior DevOps Engineer — Passionate and Ready for New Challenges"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
