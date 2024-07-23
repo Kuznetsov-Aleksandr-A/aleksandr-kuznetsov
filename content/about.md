@@ -3,7 +3,7 @@ title = "About me"
 slug = "about"
 +++
 
-
+hi
 
 I am a beginner DevOps specialist and have been actively developing my skills in this field for about a year. My goal is to make DevOps the main area of my professional activity. I am particularly attracted to solving complex problems and searching for interesting solutions. I strive not only to deepen my knowledge in this area but also to become a high-class specialist in the field of DevOps. I began my journey while working in technical support for the 1C-Отчетность service, where I wrote a Telegram bot for incident logging for work purposes. Following that, I participated in a startup where I familiarized myself with AWS technologies such as Athena, S3, Lambda, and EventBridge, as well as website development using Streamlit and Terraform.
 
