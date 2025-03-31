@@ -134,7 +134,7 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-3x"
 weight = 1
-url = "https://github.com/DarkAngelUiversal/"
+url = "https://github.com/Kuznetsov-Aleksandr-A/"
 
 # [[params.social]]
 # name = "Gitlab"
@@ -166,7 +166,6 @@ name = "Telegram"
 icon = "fa-brands fa-telegram fa-3x"
 weight = 5
 url = "https://t.me/UniversalDark"
-
 
 
 [[params.social]]
